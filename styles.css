@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.boxmodel{
+.container{
 	width:fit-content;
 	background-color:grey;
 	border-radius:40px;
@@ -8,9 +8,10 @@
 	gap:20px;
 	justify-content:center;
 	align-content:center;
+	
 
 }
-#green{
+.green{
 	height:100px;
 	width:100px;
 	border-radius:50%;
@@ -18,7 +19,7 @@
 	
 }
 
-#yellow{
+.yellow{
 	height:100px;
 	width:100px;
 	border-radius:50%;
@@ -26,7 +27,7 @@
 	
 }
 
-#red{
+.red{
 	height:100px;
 	width:100px;
 	border-radius:50%;
